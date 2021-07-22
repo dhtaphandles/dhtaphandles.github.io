@@ -12,6 +12,10 @@ _________________
 
 https://dhtaphandles.github.io/dhtaphandles/KeyshotTemplate2018_VR.1.html
 
+https://dhtaphandles.github.io/KeyshotTemplate2018_VR.1.html
+
+https://dhtaphandles.github.io/instructions.html
+
 REFERENCES
 
 https://github.com/rahlodysseus/rahlodysseus.github.io
