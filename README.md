@@ -7,7 +7,7 @@ https://rahlodysseus.github.io/直升机6_XR.97.html
 
 https://dhtaphandles.github.io/KeyshotTemplate2018VR.1.html
 
-https://dhtaphandles.github.io/XR-TEST-2/TEST.html
+https://dhtaphandles.github.io/TEST.html
 
 REFERENCES
 
