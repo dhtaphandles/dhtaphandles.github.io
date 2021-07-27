@@ -17,7 +17,6 @@ https://dhtaphandles.github.io/BM/KeyshotTemplate2018_VR.1.html
 
 https://dhtaphandles.github.io/XR_EMBED_1.html
 
-https://dhtaphandles.github.io/TEST2/KEYSHOT%XR/BM2.4/BM2.4.html
 
 IMAGE TEST
 
