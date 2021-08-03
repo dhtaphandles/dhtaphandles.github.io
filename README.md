@@ -4,6 +4,8 @@ EMBED 1
 
 https://dhtaphandles.github.io/XR_EMBED_1.html
 
+https://dhtaphandles.github.io/XR_EMBED_2.html
+
 EXAMPLES
 
 https://rahlodysseus.github.io/%E5%9B%9B%E8%BD%B4_XR.93.html
